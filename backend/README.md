@@ -1,6 +1,6 @@
 # 🛠️ Base Operations API – Backend (NestJS)
 
-This is the backend API for the Base Operations technical challenge, built with [NestJS](https://nestjs.com/) and connected to a PostgreSQL database hosted on AWS RDS.
+This is the backend API for the Base Operations technical challenge, built with [NestJS](https://nestjs.com/) and connected to a PostgreSQL database.
 
 ---
 
